@@ -6,7 +6,7 @@ kering, ESP32 menyalakan pompa air lewat relay — dan kamu dapat kabar di
 Telegram.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/UFZ7Zlu3q0I
 
 ## Komponen
 
